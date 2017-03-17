@@ -5,3 +5,4 @@ build/
 nbbuild/
 dist/
 manifest.mf
+!RestoreData.bat
